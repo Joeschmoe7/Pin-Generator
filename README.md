@@ -1,6 +1,6 @@
 Pin Generator v.02
 
-This script can be used to general a custom length list of numbers for use with brute force tools.  
+This script can be used to general a custom length list of numbers for use with brute force tools.  \n
 The list can contain all numbers in a range, or numbers that form a pattern.  The output file
 can be broken up by file size.
 
