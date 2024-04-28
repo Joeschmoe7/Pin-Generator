@@ -15,7 +15,7 @@ No arguments are needed but can be used for better customization.  User will be 
 --quick Limits the results to simple patterns like all the same digits or sequential numbers for faster results.  
 --all Print all numbers in the given range instead of just patterns.  
   
-This is a learning project and hopefully will eventually be part of a bigger tool.  Feel free to reach out to loukrawczyk1@gmail.com with any bugs,   
+This is a learning project and hopefully will eventually be part of a bigger tool.  Feel free to reach out to loukrawczyk1@gmail.com with any bugs,
 suggestions, or requests.  
 
 
